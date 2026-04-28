@@ -92,10 +92,10 @@ const Hero = () => {
             className="flex-shrink-0"
           >
             <div className="relative">
-              <div className="w-64 h-64 md:w-80 md:h-80 rounded-full gradient-bg p-1">
+              <div className="w-64 h-64 md:w-[30rem] md:h-[40rem] rounded-none gradient-bg p-1" >
                 <div className="w-full h-full rounded-full bg-card flex items-center justify-center">
                   <div
-                    className="w-full h-full rounded-full overflow-hidden
+                    className="w-full h-full  overflow-hidden
                       backdrop-blur-xl
                       bg-white/80 dark:bg-white/5
                       border border-gray-200 dark:border-white/20
